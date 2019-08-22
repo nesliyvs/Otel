@@ -1,0 +1,36 @@
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\bin\Debug\OtelTakip-Me.exe.config
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\bin\Debug\OtelTakip-Me.exe
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\bin\Debug\OtelTakip-Me.pdb
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.Form1.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.Properties.Resources.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.exe
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.pdb
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddCustomer.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddPersonel.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddRoom.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddRoomRecors.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.CustomerForm.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.PersonelForm.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.RoomForm.resources
+C:\Users\lenovo\Desktop\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.RoomRecordsForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\bin\Debug\OtelTakip-Me.exe.config
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\bin\Debug\OtelTakip-Me.exe
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\bin\Debug\OtelTakip-Me.pdb
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddCustomer.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddPersonel.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddRoom.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.AddRoomRecors.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.CustomerForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.Form1.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.PersonelForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.RoomForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip_Me.RoomRecordsForm.resources
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.exe
+C:\Users\lenovo\Desktop\C# Güncel\MyOtel (1)\MyOtel\OtelTakip-Me\obj\Debug\OtelTakip-Me.pdb
